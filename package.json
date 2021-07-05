@@ -4,7 +4,7 @@
   "description": "An API for a social network web application for users to make friends and share their thoughts. Express.js for routing, MongoDB database and mongoose as the Object Document Mapper.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
