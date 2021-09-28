@@ -2,7 +2,7 @@
 
 ## Description
 
-An API for a social network web application for users to make friends and shate their thoughts. Express.js for routing, MongoDB for the database and mongoose as the Object Document Mapper; A GOOD time!
+An API for a social network web application for users to make friends and share their thoughts. Express.js for routing, MongoDB for the database and mongoose as the Object Document Mapper; A GOOD time!
 
 ---
 
